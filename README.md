@@ -1,4 +1,4 @@
-[![MasterHead](https://code.iadb.org/sites/default/files/2021-10/CODE_BANNER_1254X433_ENG.gif)]
+![MasterHead](https://code.iadb.org/sites/default/files/2021-10/CODE_BANNER_1254X433_ENG.gif)
 <h1 align="center">Hi 👋, I'm Shawn Oloye</h1>
 <h3 align="center">A passionate web developer (full stack)</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
